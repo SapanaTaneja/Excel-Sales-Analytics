@@ -1,18 +1,18 @@
 # Excel-Sales-Analytics
  **Project objective:** The Excel-Sales-Analytics project aims to provide comprehensive insights into sales and financial performance through a series of reports generated using Microsoft Excel. This project is divided into two main categories:
 
-**1.** Sales Reports
+**1.**  [Sales Reports](https://github.com/SapanaTaneja/Excel-Sales-Analytics/tree/main/Sales)
 
-**2.** Financial Reports
+**2.** [Financial Reports](https://github.com/SapanaTaneja/Excel-Sales-Analytics/tree/main/Finance%20Report)
 
 Each category contains several key reports that analyze different aspects of the company's performance, helping stakeholders make informed decisions.
 
 
 ## Sales Reports :
 
-**1.** Analyzes net sales performance of customers year over year :[Year-Wise Customer Net Sales Performance](https://github.com/SapanaTaneja/Excel-Sales-Analytics/blob/main/Sales/Customer_Net_Sales_Performance.pdf)_
+**1.** Analyzes net sales performance of customers year over year :[Year-Wise Customer Net Sales Performance](https://github.com/SapanaTaneja/Excel-Sales-Analytics/blob/main/Sales/Customer_Net_Sales_Performance.pdf)
 
-**2.** Conduct a comprehensive comparison between : [Year-Wise Market Performance vs. Target](https://github.com/SapanaTaneja/Excel-Sales-Analytics/blob/main/Sales/Market%20Performance%20vs%20Target.pdf)_
+**2.** Conduct a comprehensive comparison between : [Year-Wise Market Performance vs. Target](https://github.com/SapanaTaneja/Excel-Sales-Analytics/blob/main/Sales/Market%20Performance%20vs%20Target.pdf)
 
    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
